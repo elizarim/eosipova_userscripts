@@ -1,6 +1,6 @@
 # Diagram Editor
 
-![payload](https://raw.github.com/elizarim/diagram_editor/main/.screenshots/diagram_editor_main_page.jpg)
+![payload](https://raw.github.com/elizarim/diagram_editor/main/.screenshots/diagram_editor.png)
 
 ## Client Install Guide
 
